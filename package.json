@@ -1,0 +1,22 @@
+{
+  "name": "playwright-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiAliokhin2021/playwright-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiAliokhin2021/playwright-project/issues"
+  },
+  "homepage": "https://github.com/AndreiAliokhin2021/playwright-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.2",
+    "playwright": "^1.32.2"
+  }
+}
